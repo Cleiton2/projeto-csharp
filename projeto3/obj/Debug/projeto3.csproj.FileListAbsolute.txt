@@ -1,0 +1,10 @@
+C:\Users\Escolar Manager\source\repos\projeto3\projeto3\bin\Debug\projeto3.exe.config
+C:\Users\Escolar Manager\source\repos\projeto3\projeto3\bin\Debug\projeto3.exe
+C:\Users\Escolar Manager\source\repos\projeto3\projeto3\bin\Debug\projeto3.pdb
+C:\Users\Escolar Manager\source\repos\projeto3\projeto3\obj\Debug\projeto3.csproj.AssemblyReference.cache
+C:\Users\Escolar Manager\source\repos\projeto3\projeto3\obj\Debug\projeto3.Properties.Resources.resources
+C:\Users\Escolar Manager\source\repos\projeto3\projeto3\obj\Debug\projeto3.csproj.GenerateResource.cache
+C:\Users\Escolar Manager\source\repos\projeto3\projeto3\obj\Debug\projeto3.csproj.CoreCompileInputs.cache
+C:\Users\Escolar Manager\source\repos\projeto3\projeto3\obj\Debug\projeto3.exe
+C:\Users\Escolar Manager\source\repos\projeto3\projeto3\obj\Debug\projeto3.pdb
+C:\Users\Escolar Manager\source\repos\projeto3\projeto3\obj\Debug\projeto3.Cadastro.resources
